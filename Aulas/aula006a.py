@@ -7,5 +7,4 @@ s = n1 + n2
 # Ou coloque um f antes das aspas " " e escreva o nome da variavel dentro dos colchetes {}  exemplo:
 
 print(f'A soma de {n1} e {n2} é {s}')
-
-
+print(f'Teste')
